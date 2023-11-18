@@ -1,0 +1,31 @@
+{
+    "InvoiceHeader": {
+        "InvoiceId": "SVS202300000002",
+        "SenderTitle": "Test Sender",
+        "ReceiverTitle": "Test Receiver",
+        "Date": "2023-04-06"
+    },
+    "InvoiceLine": [
+        {
+            "Id": 1,
+            "Name": "AAA2",
+            "Quantity": 7,
+            "UnitCode": "Adet",
+            "UnitPrice": 20
+        },
+        {
+            "Id": 2,
+            "Name": "BBB2",
+            "Quantity": 9,
+            "UnitCode": "Litre",
+            "UnitPrice": 10
+        },
+        {
+            "Id": 3,
+            "Name": "CCC2",
+            "Quantity": 35,
+            "UnitCode": "Kilogram",
+            "UnitPrice": 2
+        }
+    ]
+}

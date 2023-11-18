@@ -1,0 +1,53 @@
+{
+    "InvoiceHeader": {
+        "InvoiceId": "SVS202300000003",
+        "SenderTitle": "New Sender",
+        "ReceiverTitle": "New Receiver",
+        "Date": "2023-10-07"
+    },
+    "InvoiceLine": [
+        {
+            "Id": 1,
+            "Name": "PPPPPP3",
+            "Quantity": 3,
+            "UnitCode": "Adet",
+            "UnitPrice": 800
+        },
+        {
+            "Id": 2,
+            "Name": "LLLLLL3",
+            "Quantity": 79,
+            "UnitCode": "Litre",
+            "UnitPrice": 900
+        },
+        {
+            "Id": 3,
+            "Name": "ZZZZZZ3",
+            "Quantity": 150,
+            "UnitCode": "Kilogram",
+            "UnitPrice": 400
+        },
+        {
+            "Id": 4,
+            "Name": "DDDDDD3",
+            "Quantity": 456,
+            "UnitCode": "Kilogram",
+            "UnitPrice": 890
+        },
+        {
+            "Id": 5,
+            "Name": "WWWWWWWW3",
+            "Quantity": 752,
+            "UnitCode": "Kilogram",
+            "UnitPrice": 456
+        },
+        {
+            "Id": 6,
+            "Name": "GGGGGGGG3",
+            "Quantity": 4756,
+            "UnitCode": "Kilogram",
+            "UnitPrice": 45
+        }
+  
+    ]
+}

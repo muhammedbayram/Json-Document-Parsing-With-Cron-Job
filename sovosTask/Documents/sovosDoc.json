@@ -1,0 +1,31 @@
+{
+    "InvoiceHeader": {
+        "InvoiceId": "SVS202300000001",
+        "SenderTitle": "Gönderici Firma",
+        "ReceiverTitle": "Alıcı Firma",
+        "Date": "2023-01-05"
+    },
+    "InvoiceLine": [
+        {
+            "Id": 1,
+            "Name": "1.Ürün",
+            "Quantity": 5,
+            "UnitCode": "Adet",
+            "UnitPrice": 10
+        },
+        {
+            "Id": 2,
+            "Name": "2.Ürün",
+            "Quantity": 2,
+            "UnitCode": "Litre",
+            "UnitPrice": 3
+        },
+        {
+            "Id": 3,
+            "Name": "3.Ürün",
+            "Quantity": 25,
+            "UnitCode": "Kilogram",
+            "UnitPrice": 2
+        }
+    ]
+}
