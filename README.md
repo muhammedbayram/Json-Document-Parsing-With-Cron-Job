@@ -1,4 +1,4 @@
-# Json Document Parsing With Cron Job And Send a notification E-Mail
+# Json Document Parsing With Cron Job And Send a Notification E-Mail
 The application allows the JSON document selected by the user to be deserialized and uploaded to the database. The user can see the list of documents saved in the database, and detailed information can be accessed by selecting the documents from the list.
 
 ##Cron Job
